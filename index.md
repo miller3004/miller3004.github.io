@@ -1,17 +1,30 @@
 
 <html>
 <body>
-<h1>Daniel Miller CSCE 190 Site</h1>
+    <h1>Daniel Miller CSCE 190 Site</h1>
 
-    <section class = "assignment">
+    <section class="assignment">
 
         <a href="files/ProblemStatement.pdf"><img src="images/problemstatement.jpeg"></a>
-        <section class= "assDetails">
+        <section class="assDetails">
             <a href="files/ProblemStatement.pdf">
-                <h2> Problem Statement</h2></a>
-                <p> At school campuses, certain restaurants often change what they offer, without having a public menu available. This leads to students having to guess where to eat in order to have a healthy and varied diet. The stagnation of meals and lack of variety in diet is not only unhealthy, but the time spent eating with friends becomes boring and almost a chore. College students need an easy and efficient way to discover the options on the menus of each campus diner because many students often eat the same food every week without knowing the choices of other dining locations. Our solution will provide college students with those necessary healthy options. </p>
-                <a href="files/ProblemStatement.pdf"> Problem Statement pdf</a>
-</section>
+                <h2> Problem Statement</h2>
+            </a>
+            <p> At school campuses, certain restaurants often change what they offer, without having a public menu available. This leads to students having to guess where to eat in order to have a healthy and varied diet. The stagnation of meals and lack of variety in diet is not only unhealthy, but the time spent eating with friends becomes boring and almost a chore. College students need an easy and efficient way to discover the options on the menus of each campus diner because many students often eat the same food every week without knowing the choices of other dining locations. Our solution will provide college students with those necessary healthy options. </p>
+            <a href="files/ProblemStatement.pdf"> Problem Statement pdf</a>
+        </section>
+    </section>
+
+    <section class="assignment">
+
+        <a href="files/AffinityDiagram.pdf"><img src="images/AffinityDiagram.png"></a>
+        <section class="assDetails">
+            <a href="files/ProblemStatement.pdf">
+                <h2> Problem Statement Affinity Diagram</h2>
+            </a>
+            <p>We worked together to brainstorm everything connected to problems with eating at school</p>
+            <a href="files/AffinityDiagram.pdf"> Problem Statement Affinity Diagram pdf</a>
+        </section>
     </section>
 </body>
 </html>
