@@ -26,5 +26,16 @@
             <a href="files/AffinityDiagram.pdf"> Problem Statement Affinity Diagram pdf</a>
         </section>
     </section>
+    <section class="assignment">
+
+        <a href="files/combinepdf.pdf"><img src="images/combinepdf-1.jpg"></a>
+        <section class="assDetails">
+            <a href="files/combinepdf.pdf">
+                <h2> Persona</h2>
+            </a>
+            <p>We all helped to create personas of ourselves</p>
+            <a href="files/combinepdf.pdf"> Personas pdf</a>
+        </section>
+    </section>
 </body>
 </html>
