@@ -44,8 +44,19 @@
             <a href="files/Storyboard.pdf">
                 <h2> Storyboard</h2>
             </a>
-            <p>I created a sotryboard of a potential user of the product to show how and why they would use the product</p>
+            <p>I created a Storyboard of a potential user of the product to show how and why they would use the product</p>
             <a href="files/Storyboard.pdf"> Storyboard pdf</a>
+        </section>
+    </section>
+    <section class="assignment">
+
+        <a href="files/combinepdf.pdf"><img src="images/Sketches.png"></a>
+        <section class="assDetails">
+            <a href="files/combinepdf.pdf">
+                <h2> Sketches</h2>
+            </a>
+            <p>We all created several different designs for our app</p>
+            <a href="files/combinepdf.pdf"> Sketches pdf</a>
         </section>
     </section>
 </body>
