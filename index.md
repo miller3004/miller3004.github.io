@@ -50,7 +50,7 @@
     </section>
     <section class="assignment">
 
-        <a href="files/combinepdf.pdf"><img src="images/sketches.png"></a>
+        <a href="files/combinepdf.pdf"><img src="images/Sketches.png"></a>
         <section class="assDetails">
             <a href="files/combinepdf.pdf">
                 <h2> Sketches</h2>
