@@ -37,5 +37,16 @@
             <a href="files/combinepdf.pdf"> Personas pdf</a>
         </section>
     </section>
+    <section class="assignment">
+
+        <a href="files/Storyboard.pdf"><img src="images/Storyboard.png"></a>
+        <section class="assDetails">
+            <a href="files/Storyboard.pdf">
+                <h2> Storyboard</h2>
+            </a>
+            <p>I created a sotryboard of a potential user of the product to show how and why they would use the product</p>
+            <a href="files/Storyboard.pdf"> Storyboard pdf</a>
+        </section>
+    </section>
 </body>
 </html>
