@@ -1,4 +1,3 @@
-
 <html>
 <body>
     <h1>Daniel Miller CSCE 190 Site</h1>
@@ -44,7 +43,7 @@
             <a href="files/Storyboard.pdf">
                 <h2> Storyboard</h2>
             </a>
-            <p>I created a Storyboard of a potential user of the product to show how and why they would use the product</p>
+            <p>I created a sotryboard of a potential user of the product to show how and why they would use the product</p>
             <a href="files/Storyboard.pdf"> Storyboard pdf</a>
         </section>
     </section>
@@ -57,6 +56,17 @@
             </a>
             <p>We all created several different designs for our app</p>
             <a href="files/combinepdf.pdf"> Sketches pdf</a>
+        </section>
+    </section>
+    <section class="assignment">
+
+        <a href="https://youtu.be/EXtpHv_JtsY"><img src="images/Prototype.png"></a>
+        <section class="assDetails">
+            <a href="https://youtu.be/EXtpHv_JtsY">
+                <h2>Paper Prototype</h2>
+            </a>
+            <p>I created a paper protype of our app</p>
+            <a href="https://youtu.be/EXtpHv_JtsY"> Prototype Video</a>
         </section>
     </section>
 </body>
