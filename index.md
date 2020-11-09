@@ -80,5 +80,16 @@
             <a href="files/usability.pdf"> Usability Testing</a>
         </section>
     </section>
+    <section class="assignment">
+
+        <a href="files/proto.pdf"><img src="images/proto.png"></a>
+        <section class="assDetails">
+            <a href="files/proto.pdf">
+                <h2>Prototype</h2>
+            </a>
+            <p>We created a working prototype using proto.io</p>
+            <a href="files/proto.pdf"> Prototyping</a>
+        </section>
+    </section>
 </body>
 </html>
