@@ -80,7 +80,7 @@
             <a href="files/usability.pdf"> Usability Testing</a>
         </section>
     </section>
-    <section class="assignment">
+     <section class="assignment">
 
         <a href="files/proto.pdf"><img src="images/proto.png"></a>
         <section class="assDetails">
@@ -90,6 +90,18 @@
             <p>We created a working prototype using proto.io</p>
             <a href="files/proto.pdf"> Prototyping</a>
         </section>
+        
+        <section class="assignment">
+
+        <a href="https://colinmitchell.proto.io/player/index.cfm?id=87a5a241-4c1d-46e2-98ca-a30bec46ded1"><img src="images/hifiproto.png"></a>
+        <section class="assDetails">
+            <a href="https://colinmitchell.proto.io/player/index.cfm?id=87a5a241-4c1d-46e2-98ca-a30bec46ded1">
+                <h2> Hi Fidelity Prototype</h2>
+            </a>
+            <p>We edited our lo fi prototype to make it look better and work better</p>
+            <a href="https://colinmitchell.proto.io/player/index.cfm?id=87a5a241-4c1d-46e2-98ca-a30bec46ded1"> Prototyping</a>
+        </section>
+    </section>
     </section>
 </body>
 </html>
