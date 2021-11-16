@@ -3,17 +3,26 @@ body {
   font-family:Arial, Helvetica, sans-serif;
 }
 
-.assignment {
+.assignments {
   display:flex;
+  flex-wraps:wrap;
+}
+
+.assignment {
+  width:22%;
   padding:10px;
   margin:10px;
   background:#98CCB6; 
+  display:block;
+  margin:auto;
 }
 
 .assignment img {
   width:200px;
   margin:10px;
-  boder:4px dashed #FFF;
+  boder:4px solid #FFF;
+  display:block;
+  margin:auto;
 }
 .assignment img:hover {
   boder:4px dashed #f25C69;
@@ -25,6 +34,10 @@ h1 {
 
 h1:hover {
   color: #f25C69;
+}
+
+h2 {
+  text-align:center;
 }
 
 a {
