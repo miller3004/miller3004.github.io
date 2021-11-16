@@ -12,9 +12,9 @@ body {
   width:22%;
   padding:10px;
   margin:10px;
+  padding:20px 10;
   background:#98CCB6; 
-  display:block;
-  margin:auto;
+  border-radius:5px
 }
 
 .assignment img {
